@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">live</string>
+
+    <string name="home_title">Home</string>
+    <string name="home_empty">No pinned apps yet. Open Settings to pick.</string>
+    <string name="open_all_apps">All apps (locked)</string>
+    <string name="settings">Settings</string>
+
+    <string name="focus_hint">Focus mode: only essentials, no noise.</string>
+
+    <string name="focus_phone">Phone</string>
+    <string name="focus_messages">Messages</string>
+    <string name="focus_gmail">Gmail</string>
+    <string name="focus_call_contact">Call Mom</string>
+    <string name="focus_others">Others</string>
+    <string name="swipe_for_calendar">Swipe right for Calendar</string>
+    <string name="swipe_back_home">Swipe left to return Home</string>
+    <string name="calendar_permission_hint">Grant Calendar permission to show your events (holidays still show without it).</string>
+
+    <string name="set_location_title">Set location</string>
+    <string name="set_location_message">Search once. This location is used for temperature.</string>
+    <string name="location_search_hint">City or place</string>
+    <string name="search">Search</string>
+    <string name="location_required">Enter a location</string>
+    <string name="location_search_failed">Search failed</string>
+    <string name="searching_location">Searching…</string>
+    <string name="refresh_weather">Refresh weather</string>
+    <string name="more_apps">More Apps</string>
+
+    <string name="set_contact_title">Contact shortcut</string>
+    <string name="set_contact_message">Set a phone number for the Call shortcut.</string>
+    <string name="contact_name">Contact name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="save_contact">Save</string>
+
+    <string name="all_apps_title">All apps</string>
+    <string name="close">Close</string>
+    <string name="search_hint">Search apps</string>
+
+    <string name="setup_title">Setup</string>
+    <string name="password_create_hint">Create a long password to unlock all apps and settings.</string>
+    <string name="password_already_set">Password is already set.</string>
+    <string name="password">Password</string>
+    <string name="password_confirm">Confirm password</string>
+    <string name="password_policy">Password must be at least 12 characters and include a letter, a number, and a symbol.</string>
+    <string name="password_mismatch">Passwords do not match.</string>
+    <string name="password_set_failed">Failed to set password.</string>
+
+    <string name="pinned_title">Pinned apps (shown on Home)</string>
+    <string name="pinned_empty">Pick at least one pinned app.</string>
+
+    <string name="pick_image">Pick image</string>
+    <string name="image_not_set">No image selected.</string>
+    <string name="image_set">Image selected.</string>
+    <string name="apply_lock_image">Apply image to lock screen</string>
+
+    <string name="dashboard_wallpaper">Dashboard wallpaper</string>
+    <string name="apply_dashboard_wallpaper">Apply dashboard live wallpaper</string>
+    <string name="permissions_note">Calendar needs permission; temperature uses your saved location.</string>
+
+    <string name="save">Save</string>
+    <string name="unlock">Unlock</string>
+    <string name="unlock_title">Unlock</string>
+    <string name="wrong_password">Wrong password.</string>
+
+    <string name="app_icon">App icon</string>
+
+    <string name="lock_apply_no_image">No image selected.</string>
+    <string name="lock_apply_requires_system_ui">Your Android version requires the system UI to set lock-screen wallpaper. Use the picker below.</string>
+    <string name="lock_apply_not_allowed">Wallpaper changes are not allowed on this device.</string>
+    <string name="lock_apply_live_wallpaper_note">A live wallpaper is active. It may show on both screens (OEM-dependent).</string>
+    <string name="lock_apply_open_failed">Failed to open the image.</string>
+    <string name="lock_apply_success">Lock-screen wallpaper updated.</string>
+    <string name="lock_apply_failed_fallback">Direct wallpaper setting failed. Opening system picker...</string>
+    <string name="lock_apply_picker_title">Choose lock-screen wallpaper</string>
+
+    <string name="drag_to_reorder">Drag to reorder</string>
+    <string name="more_options">More options</string>
+    <string name="delete">Delete</string>
+    <string name="add_contact">Add contact</string>
+    <string name="open_setup">Settings (locked)</string>
+</resources>

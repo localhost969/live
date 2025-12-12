@@ -1,0 +1,41 @@
+[
+  {"date":"2026-01-01","name":"New Year's Day"},
+  {"date":"2026-01-14","name":"Bhogi"},
+  {"date":"2026-01-15","name":"Sankranti / Pongal"},
+  {"date":"2026-01-26","name":"Republic Day (National Day)"},
+
+  {"date":"2026-02-15","name":"Maha Shivaratri"},
+
+  {"date":"2026-03-03","name":"Holi"},
+  {"date":"2026-03-19","name":"Ugadi"},
+  {"date":"2026-03-21","name":"Eidul Fitar / Ramzan (End of Ramadan)"},
+  {"date":"2026-03-22","name":"Following day of Ramzan"},
+  {"date":"2026-03-27","name":"Sri Rama Navami"},
+
+  {"date":"2026-04-03","name":"Good Friday"},
+  {"date":"2026-04-05","name":"Babu Jagjivan Ram's Birthday"},
+  {"date":"2026-04-14","name":"Dr. B.R. Ambedkar's Birthday"},
+
+  {"date":"2026-05-27","name":"Eidul Azah / Bakrid (Feast of Sacrifice)"},
+
+  {"date":"2026-06-26","name":"Shahadat Imam Hussain / 10th Moharam"},
+
+  {"date":"2026-08-10","name":"Bonalu"},
+  {"date":"2026-08-15","name":"Independence Day"},
+  {"date":"2026-08-26","name":"Milad-un-Nabi (Prophet's Birthday)"},
+
+  {"date":"2026-09-04","name":"Sri Krishna Astami (as per Srivaishnava Agamam)"},
+  {"date":"2026-09-14","name":"Vinayaka Chavithi"},
+
+  {"date":"2026-10-02","name":"Mahatma Gandhi's Birthday"},
+  {"date":"2026-10-18","name":"Saddula Bathukamma"},
+  {"date":"2026-10-20","name":"Vijaya Dasami"},
+  {"date":"2026-10-21","name":"Following day of Vijaya Dasami"},
+
+  {"date":"2026-11-08","name":"Deepavali"},
+  {"date":"2026-11-24","name":"Guru Nanak's Birthday"},
+  {"date":"2026-11-24","name":"Kartika Purnima"},
+
+  {"date":"2026-12-25","name":"Christmas"},
+  {"date":"2026-12-26","name":"Boxing Day"}
+]
